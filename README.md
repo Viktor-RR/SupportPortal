@@ -6,4 +6,4 @@
 
 ### Screens :
 
-![Login/Register page](C:\Users\Viktor\Desktop\images\im0.jpg)
+![Login/Register page](https://user-images.githubusercontent.com/80005666/127871452-8e2e0060-7942-47ea-b404-a4e96a79bd3d.jpg)
